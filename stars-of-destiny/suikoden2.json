@@ -1,0 +1,16 @@
+"stars": [
+	{
+		"name": "Riou",
+		"hero": true,
+		"japaneseName": "リオウ",
+		"star": "Tenkai",
+		"photo": "http://vignette2.wikia.nocookie.net/suikoden/images/c/ca/SII_Riou_Portrait.png/revision/latest/scale-to-width/60?cb=20150123043430&format=webp",
+		"description": "Riou is a soldier of the Highland Army's Unicorn Youth Brigade and 16 years old at the beginning of Suikoden II. He wields a tonfa and becomes the bearer of the Bright Shield Rune.",
+		"recruting": "Riou being the main protagonist of Suikoden II. He is recruited at the beginning of the game, and is irremovable from the party.",
+		"rune": {
+			"trueRune": true,
+			"name": "Bright Shield Rune"
+		},
+		"appears": ["Suikoden 2", "Suikogaiden Vol. 1", "Suikogaiden Vol. 2"]
+	}
+]
